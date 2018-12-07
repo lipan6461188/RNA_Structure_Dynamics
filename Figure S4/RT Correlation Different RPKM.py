@@ -123,8 +123,6 @@ plt.show()
 
 
 
-
-
 #### Mouse
 
 meanRT = 2
